@@ -28,7 +28,8 @@ print(inverse)
 ```
 
 ## Output:
-![output](<maths exp 3 ss.png>)
+![image](https://github.com/Raji1009/INVERSE-OF-A-MATRIX/assets/89059861/42884bbe-56e4-4c32-acfa-d6355283472b)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
